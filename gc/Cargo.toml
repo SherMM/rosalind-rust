@@ -1,0 +1,6 @@
+[package]
+name = "gc"
+version = "0.1.0"
+authors = ["Shermm <helioblast86@gmail.com>"]
+
+[dependencies]
